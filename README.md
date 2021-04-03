@@ -1,2 +1,4 @@
 # konfig-emacs-c
-Neben Konfigurationsdatei auch einige Funktionen zum erinnern
+Auflisten von Packages die Sinnvoll sind für eine vollwertige C++ IDE in Emacs.
+
+  
