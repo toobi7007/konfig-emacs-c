@@ -26,7 +26,7 @@ Tastenkürzel | Befehl | Beschreibung
 `C-M a` | `beginning-of-defun` | Springt zum Anfang der Funktion
 `C-M e` | `end-of-defun` | Springt zum Ende der Funktion
 
-**! WICHTIG ! ** Folgende Tastenkürzel wurden editiert in .emacs
+> Folgende Tastenkürzel wurden editiert in .emacs
 
 `M-.` | `ggtags-find-tag-dwim` | Sucht Tags im Kontext in allen Projekten -> Sehr nützlich
-`M-,` | `
+
